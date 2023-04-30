@@ -32,7 +32,7 @@ Hi there, I'm Your Name 👋
 
 📊 GitHub Stats:
 
-geoffreyyyyy15 GitHub stats
+
 <img src="https://github-readme-stats.vercel.app/api?username=geoffreyyyyy15&amp;show_icons=true&amp;theme=radical" alt="Your Name's GitHub stats">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geoffreyyyyy15&amp;layout=compact&amp;theme=radical" alt="Top Langs">
