@@ -14,21 +14,20 @@ Hi there, I'm Your Name 👋
 📚 Tech Stack:
 
     Backend: PHP (Laravel), MySQL, Redis, AWS
-    Frontend: JavaScript (Vue.js, React), HTML, CSS (Bootstrap, Tailwind CSS), Livewire, Alpine.js
-    Tools: Git, GitHub, VS Code, Docker, Nginx
+    Frontend: JavaScript, HTML, CSS (Bootstrap, Tailwind CSS), Livewire, Alpine.js
+    Tools: Git, GitHub, VS Code, MySql Workbench, Xampp, 
 
 🔭 Projects:
 
-    Project 1 - Description of project 1.
-    Project 2 - Description of project 2.
-    Project 3 - Description of project 3.
+    Socialites Driving School Appointment System -  Driving School Appointment System and content management using Vanilla PHP and JavaScript, MySql for database
+    OpenAI Clone - OpenAI Homepage Clone using Tailwind css - https://github.com/geoffreyyyyy15/OpenAI_Homepage_Clone.
+    Blog Post- Blog Posting Using laravel - https://github.com/geoffreyyyyy15/blog.
 
 📫 How to reach me:
 
-    Email
-    Website
-    LinkedIn
-    GitHub
+    Email - geoffrey.bagabaldo@gmail.com
+    LinkedIn - https://www.linkedin.com/in/geoffrey-bagabaldo-988377245/
+    
 
 📊 GitHub Stats:
 
