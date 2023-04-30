@@ -1,1 +1,1 @@
-[![GitHub followers](https://img.shields.io/github/stars/geoffreyyyyy15/https://github.com/geoffreyyyyy15/OpenAI_Homepage_Clone?style=social)](https://github.com/geoffreyyyyy15/https://github.com/geoffreyyyyy15/OpenAI_Homepage_Clone)
+[![GitHub followers](https://img.shields.io/github/stars/geoffreyyyyy15/OpenAI_Homepage_Clone?style=social)](OpenAI_Homepage_Clone)
