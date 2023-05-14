@@ -13,7 +13,7 @@ Hi there, I'm Geoffrey 👋
 
 📚 Tech Stack:
 
-    Backend: PHP (Laravel), MySQL, Redis, AWS
+    Backend: PHP (Laravel), MySQL
     Frontend: JavaScript, HTML, CSS (Bootstrap, Tailwind CSS), Livewire, Alpine.js
     Tools: Git, GitHub, VS Code, MySql Workbench, Xampp, 
 
