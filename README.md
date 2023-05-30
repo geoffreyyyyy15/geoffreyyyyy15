@@ -29,7 +29,7 @@ Hi there, I'm Geoffrey 👋
     LinkedIn - https://www.linkedin.com/in/geoffrey-bagabaldo-988377245/
     
 
-📊 GitHub Stats:
+<!-- 📊 GitHub Stats: -->
 
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geoffreyyyyy15&amp;layout=compact&amp;theme=radical" alt="Top Langs"> -->
