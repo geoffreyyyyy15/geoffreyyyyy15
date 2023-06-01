@@ -1,5 +1,5 @@
 Hi there, I'm Geoffrey 👋
-👨🏻‍💻 Full-Stack Developer | 🌏 Location: Philippines
+👨🏻‍💻 Full-Stack Developer 
 💼 Skills:
 
     PHP
