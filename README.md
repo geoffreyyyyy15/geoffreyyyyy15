@@ -1,15 +1,6 @@
 Hi there, I'm Geoffrey 👋
 👨🏻‍💻 Full-Stack Developer 
-💼 Skills:
 
-    PHP
-    JavaScript
-    HTML
-    CSS
-    Bootstrap
-    Livewire
-    Alpine.js
-    Laravel
 
 📚 Tech Stack:
 
