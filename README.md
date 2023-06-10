@@ -10,8 +10,8 @@ Hi there, I'm Geoffrey 👋
 
 🔭 Projects:
 
-    Socialites Driving School Appointment System -  Driving School Appointment System and content management using Vanilla PHP and JavaScript, MySql for database
-    OpenAI Clone - OpenAI Homepage Clone using Tailwind css - https://github.com/geoffreyyyyy15/OpenAI_Homepage_Clone.
+    Socialites Driving School Appointment System -  socialites.website
+    OpenAI Clone - OpenAI Homepage Clone using Tailwind css - https://geoffreyyyyy15.github.io/OpenAI_Homepage/.
     Blog Post- Blog Posting Using laravel - https://github.com/geoffreyyyyy15/blog.
 
 📫 How to reach me:
